@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "id": "cust_8d6cba3b-01cd-4750-84af-d7d8f7f4c4fd",
+      "name": "Tirupati Trading",
+      "phone": "",
+      "createdAt": "2026-09-14T11:29:28.927Z",
+      "updatedAt": "2026-09-14T11:29:51.545Z"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "txn_948d14ec-5fa0-4bcc-be78-20cc51d4769c",
+      "customerId": "cust_8d6cba3b-01cd-4750-84af-d7d8f7f4c4fd",
+      "type": "BILL",
+      "billNumber": "101",
+      "amount": 1000,
+      "date": "2026-09-14",
+      "note": "",
+      "createdAt": "2026-09-14T11:29:51.545Z",
+      "updatedAt": "2026-09-14T11:29:51.545Z"
+    }
+  ]
+}
