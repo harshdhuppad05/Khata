@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Khata
 Simple Ledger to keep track of Accounts
-=======
+======
 # Customer Dues Tracker
 
 A small, local customer dues tracker for keeping track of bills, payments, and the balance for each customer.
